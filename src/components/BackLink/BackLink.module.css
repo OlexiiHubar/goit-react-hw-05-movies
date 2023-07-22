@@ -1,0 +1,10 @@
+.link {
+  font-style: italic;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.link:hover,
+.link:focus {
+  color: var(--accent-color);
+}
